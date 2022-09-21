@@ -33,7 +33,7 @@ public class Driver {
 		
 		} while ( option <'1'|| option >'4'); 
 		
-	// Now , Use of if - else if statements to choose among multiple options.
+	// Now , Use of switch case to choose among multiple options.
 		
 		switch (option) { 
 		
